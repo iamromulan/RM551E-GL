@@ -240,7 +240,7 @@ For the RM550/551 modems, you can use a paper clip. Be sure to bend the ends so 
 Open Device manager on your PC and keep and eye on the ports section.
 Using the tool from step 3, trip the 2 contacts on the back of the modem **at the same time as plugging the USB to your PC**.  If you are successful, the QDLoader port should instantly appear. You do not need to keep the 2 contacts on the back tripped after you plug it in and see the QDLoader port. If the QDLoader port doesn't show up within 3 seconds, unplug the USB and try again.
 
-For the RM500-RM530 modems these are the correct ports to jump:
+For the RM550/551 modems these are the correct ports to jump:
 
 **Here is how I did it. Remember plug the USB in at the same time as doing this:**
 ![](https://github.com/iamromulan/RM551E-GL/blob/main/Images/551_edl.png?raw=tru)
