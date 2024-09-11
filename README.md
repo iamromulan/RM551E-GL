@@ -134,6 +134,7 @@ As of right now the only way to buy a RM551E-GL is through resellers or Quectel 
 
 | Date | Version | Link |
 | --- | --- | --- |
+| `2024-08-05` | *RM551EGL00AAR01A01M8G* | <a href="https://mega.nz/file/aAdVHTST#dOzRfehUUbcUFH3Yoo-n58m68wgHcEXhcnKYuo2nMo4">Download</a> |
 | `2024-06-24` | *RM551EGL00AAR01A01M8G_BETA (PCIe RC Working)* | <a href="https://mega.nz/file/DQlFiSTA#DwvN0Sw3jSp75yxhb6drmZGB_IiQWhixXsZ8Da-qqeg">Download</a> |
 | `2024-04-28` | *RM551EGL00AAR01A01M8G_BETA* | <a href="https://mega.nz/file/jJUWhIgC#inwjWgTnrSU1_H8FRFR_Rm7X_AaqaO8uZVj2Q1Kp1s4">Download</a> |
 
