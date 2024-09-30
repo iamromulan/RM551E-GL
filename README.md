@@ -85,7 +85,7 @@ All files installed/downloaded will go to C:\Quectel\
 
 ## Where To Buy
 
-As of right now the only way to buy a RM551E-GL is through resellers or Quectel Directly. No Quectel direct stock and expensive resellers make this modem currently unavailable 
+The RM551E-GL is back in stock! For the best deal on one of these send [Dexter Labrooy](https://www.facebook.com/dexter.labrooy) a message.
 
 ## Toolz:
 <details>
