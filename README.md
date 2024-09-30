@@ -3,7 +3,7 @@
 >:warning: The RM551E-GL is brand new and is currently in ES1 phase (Engineering Sample 1) 
 >My modem the the above picture, if you read the SN: E1 (ES1) Y24 (2024), D64 (Unknown), Unit 9 (Modem #9)
 
-The Quectel RM520N-GL is a cellular NR/LTE (5G/4G) M.2 B-Key modem module specially optimized for a variety of applications and usage scenarios utilizing the Qualcomm x75 platform.
+The Quectel RM551E-GL is a cellular NR/LTE (5G/4G) M.2 B-Key modem module specially optimized for a variety of applications and usage scenarios utilizing the Qualcomm x75 platform.
 
 You will find Tools, Docs, and Firmware for it here, as well as a .exe (QuecDeploy) that installs everything for windows.
 
@@ -169,7 +169,7 @@ Step 4.
 
 > In the new window, go to the `\update\firehose` folder of the firmware and select the `partition_complete` file. Then click the Open button. 
 
->If you downloaded your firmware with [QuecTool](#quectool) then go to C:\Quectel\firmware\RM520NGL\type\fimrware\update\firehose\
+>If you downloaded your firmware with [QuecTool](#quectool) then go to C:\Quectel\firmware\RM551EGL\type\fimrware\update\firehose\
 
 ![](https://github.com/iamromulan/RM551E-GL/blob/main/Images/qflash_sel_fw.png?raw=tru)
 
