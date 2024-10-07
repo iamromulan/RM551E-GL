@@ -5,6 +5,11 @@
 
 The Quectel RM551E-GL is a cellular NR/LTE (5G/4G) M.2 B-Key modem module specially optimized for a variety of applications and usage scenarios utilizing the Qualcomm x75 platform.
 
+# SDXPINN Toolkit:
+ 
+ - Openwrt repo + Setup script for the OpenWRT system running on the modem itself
+ - https://github.com/iamromulan/quectel-rgmii-toolkit/tree/SDXPINN
+
 You will find Tools, Docs, and Firmware for it here, as well as a .exe (QuecDeploy) that installs everything for windows.
 
 # Table of Contents
