@@ -23,7 +23,7 @@ You will find Tools, Docs, and Firmware for it here, as well as a .exe (QuecDepl
 - [How to use Qnavigator to send AT commands](#how-to-use-qnavigator-to-send-at-commands)
 - [AT commands](#at-commands)
 - [Other Docs](#other-docs)
-- [Description of antenna connection](#description-of-antenna-connection)
+- [Description of antenna connection](#description-of-antenna-connection) 
 - [Specification](#specification)
 
 ## Connection Methods
@@ -290,6 +290,14 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 
 </details>
 
+## Description of antenna connection:
+<details>
+   <summary>View</summary>
+
+![RM551E-GL_ant_pairs](https://github.com/user-attachments/assets/309702e4-eb05-4748-8366-5ae1115e8921)
+![RM551E-GL_ant_descrip](https://github.com/user-attachments/assets/a8b48a52-9af2-4065-82f3-f4a085ed0d20)
+
+</details>
 
 ## Other Docs
 <details>
